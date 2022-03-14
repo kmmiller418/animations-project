@@ -15,4 +15,5 @@ Website can be viewed [HERE](https://kmmiller418.github.io/animations-project/)
 
 #### Documentation
 [CSS animation library](https://animate.style/)
+<br>
 Assets cc by 2.0
