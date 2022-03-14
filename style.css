@@ -25,7 +25,7 @@ h1 {
     align-items: center;
     justify-content: center;
     background-color: rgb(203, 205, 216);
-    color:rgb(54, 37, 24);
+    color:rgb(183, 21, 23);
     width: 100%;
 }
 
@@ -40,6 +40,36 @@ li {
     cursor: pointer;
 }
 
+.content{
+    display: flex;
+}
+
+.text-box {
+    padding: 1em;
+    margin: 2em;
+}
+
 img {
-    width: 85%;
+    width: 70%;
+}
+
+span {
+    color: rgb(183, 21, 23);
+}
+
+.tag-line {
+    color: rgb(55, 86, 76);
+    font-size: 24px;
+}
+
+footer {
+    background-color: rgb(203, 205, 216);
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.disclaimer{
+    font-size: 10px;
 }
