@@ -10,3 +10,9 @@ This is an HTML CSS Project that utilizes:
 * GitHub pages + version control
 
 Website can be viewed [HERE](https://kmmiller418.github.io/animations-project/)
+
+<hr>
+
+#### Documentation
+[CSS animation library](https://animate.style/)
+Assets cc by 2.0
