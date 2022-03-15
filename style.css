@@ -15,6 +15,22 @@ header {
   border-radius: 64px;
 }
 
+.chicken {
+  width: 100px;
+  height: 100px;
+  position: relative;
+  animation-name: slide;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+  z-index: 1;
+}
+
+@keyframes slide {
+0%   {left:-50px; top:0px;}
+25%  { left:200px; top:0px;}
+50% {opacity: 0;}
+}
+
 h1 {
   font-size: 4em;
   margin-bottom: 0;
