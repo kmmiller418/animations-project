@@ -3,7 +3,8 @@ This is an HTML CSS Project that utilizes:
 
 * an external stylesheet
 * flexbox
-* CSS animation sets
+* custom animation
+* prebuilt animations from CSS animation libraries
 * multiple pages + linking
 * pseudo-classes
 * CSS selectors that are used across multiple pages
